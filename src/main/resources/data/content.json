@@ -1,0 +1,92 @@
+[
+  {
+    "title": "Introduction to Spring Boot",
+    "desc": "blog",
+    "status": "IDEA",
+    "contentType": "ARTICLE",
+    "dateCreated": "2023-10-29T12:00:00",
+    "dateUpdated": "2023-10-29T12:00:00",
+    "url": "https://www.youtube.com/watch?v=UgX5lgv4uVM&t=9094s"
+  },
+  {
+    "title": "Building RESTful APIs with Java",
+    "desc": "blog",
+    "status": "IN_PROGRESS",
+    "contentType": "VIDEO",
+    "dateCreated": "2023-10-29T12:01:00",
+    "dateUpdated": "2023-10-29T12:01:00",
+    "url": "https://www.youtube.com/watch?v=Zo9xQzibp4Y&pp=ygUfQnVpbGRpbmcgUkVTVGZ1bCBBUElzIHdpdGggSmF2YQ%3D%3D"
+  },
+  {
+    "title": "Web Security Best Practices",
+    "desc": "blog",
+    "status": "COMPLETED",
+    "contentType": "COURSE",
+    "dateCreated": "2023-10-29T12:02:00",
+    "dateUpdated": "2023-10-29T12:02:00",
+    "url": "https://www.youtube.com/watch?v=Rzg6JVp6Kok&pp=ygUdY3liZXJzZWN1cml0eSBiZXN0IHByYWN0aWNlcyA%3D"
+  },
+  {
+    "title": "Database Design Fundamentals",
+    "desc": "blog",
+    "status": "PUBLISHED",
+    "contentType": "CONFERENCE_TALK",
+    "dateCreated": "2023-10-29T12:03:00",
+    "dateUpdated": "2023-10-29T12:03:00",
+    "url": "https://www.youtube.com/watch?v=GFQaEYEc8_8&pp=ygUbRGF0YWJhc2UgRGVzaWduIEZ1bmRhbWVudGFs"
+  },
+  {
+    "title": "Front-end Development with React",
+    "desc": "blog",
+    "status": "IDEA",
+    "contentType": "ARTICLE",
+    "dateCreated": "2023-10-29T12:04:00",
+    "dateUpdated": "2023-10-29T12:04:00",
+    "url": "https://www.youtube.com/watch?v=SqcY0GlETPk&pp=ygUgRnJvbnQtZW5kIERldmVsb3BtZW50IHdpdGggUmVhY3Q%3D"
+  },
+  {
+    "title": "Cloud Computing Essentials",
+    "desc": "blog",
+    "status": "IN_PROGRESS",
+    "contentType": "VIDEO",
+    "dateCreated": "2023-10-29T12:05:00",
+    "dateUpdated": "2023-10-29T12:05:00",
+    "url": "https://www.youtube.com/watch?v=RWgW-CgdIk0&pp=ygUaQ2xvdWQgQ29tcHV0aW5nIEVzc2VudGlhbHM%3D"
+  },
+  {
+    "title": "Machine Learning Basics",
+    "desc": "blog",
+    "status": "COMPLETED",
+    "contentType": "COURSE",
+    "dateCreated": "2023-10-29T12:06:00",
+    "dateUpdated": "2023-10-29T12:06:00",
+    "url": "https://www.youtube.com/watch?v=PeMlggyqz0Y&pp=ygUXTWFjaGluZSBMZWFybmluZyBCYXNpY3M%3D"
+  },
+  {
+    "title": "The Art of Code Testing",
+    "desc": "blog",
+    "status": "PUBLISHED",
+    "contentType": "CONFERENCE_TALK",
+    "dateCreated": "2023-10-29T12:07:00",
+    "dateUpdated": "2023-10-29T12:07:00",
+    "url": "https://www.youtube.com/watch?v=YaXJeUkBe4Y&pp=ygUXVGhlIEFydCBvZiBDb2RlIFRlc3Rpbmc%3D"
+  },
+  {
+    "title": "Agile Project Management",
+    "desc": "blog",
+    "status": "IDEA",
+    "contentType": "ARTICLE",
+    "dateCreated": "2023-10-29T12:08:00",
+    "dateUpdated": "2023-10-29T12:08:00",
+    "url": "https://www.youtube.com/watch?v=thsFsPnUHRA&pp=ygUYQWdpbGUgUHJvamVjdCBNYW5hZ2VtZW50"
+  },
+  {
+    "title": "DevOps and Continuous Integration",
+    "desc": "blog",
+    "status": "IN_PROGRESS",
+    "contentType": "VIDEO",
+    "dateCreated": "2023-10-29T12:09:00",
+    "dateUpdated": "2023-10-29T12:09:00",
+    "url": "https://www.youtube.com/watch?v=1er2cjUq1UI&pp=ygUiRGV2T3BzIGFuZCBDb250aW51b3VzIEludGVncmF0aW9uIg%3D%3D"
+  }
+]
